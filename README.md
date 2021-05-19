@@ -1,1 +1,2 @@
 # Airline-Predictive-Analytics
+This project I was asked to develop a model to classify MidWest customers as to whether they purchase a wireless phone service contract (target variable Phone_sale), that can be used to predict classifications for additional customers. I developed 4 models, two logistic regression and two neural network models. I also calculated accuracies and other measures using confusion matrices to determine the best model. 
